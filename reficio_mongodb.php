@@ -8,7 +8,7 @@
  * WordPress, enquanto o arquivo de saída é
  * escrito no diretório do tema ativo.
  *
- * Este arquivo é baseado no arquivo desenvolvido
+ * Este script é baseado no script desenvolvido
  * por Gabriele Romanato mostrado na página:
  * How to export data from WordPress to MongoDB
  * https://gabrieleromanato.name/how-to-export-data-from-wordpress-to-mongodb
