@@ -28,8 +28,7 @@ while ( $loop->have_posts() ):
     $base_upload_url = $upload_dir['baseurl'] . '/';
     $thumb           = wp_get_attachment_image_src( get_post_thumbnail_id( $id ), 'full' );
     $image           = str_replace( $base_upload_url, '/uploads/', $thumb[0] );
-    $cats            = get_the_category( $id );
-    $tags            = get_the_tags();
+    $ancestors       = get_ancestors( $id, 'page', 'post_type' );
 
     $coordinates = array();
 
@@ -51,6 +50,7 @@ while ( $loop->have_posts() ):
     $datum['excerpt']     = strip_tags( get_the_excerpt() );
     $datum['slug']        = basename( get_permalink( $id ) );
     $datum['thumb']       = $image;
+    $datum['ancestors']   = $ancestors;
     $datum['coordinates'] = $coordinates;
     $data[]               = $datum;
 endwhile;
