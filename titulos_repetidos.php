@@ -3,7 +3,7 @@
  * @file
  * Exibir os títulos repetidos dos documentos,
  * ordenados pelo número de vezes que aparecem
- * e o título.
+ * e título.
  *
  * @author Halley Pacheco de Oliveira
  */
@@ -14,7 +14,8 @@ $conn = new MongoDB\Driver\Manager("mongodb://localhost:27017");
 // Utilizar a agregação para contar o número de vezes
 // que cada título aparece na coleção.
 // _id é o campo usado para agrupar a coleção.
-// Mostrar os títulos repetidos (aparecem mais de uma vez).
+// Mostrar só os títulos repetidos, ou seja,
+// aqueles que aparecem mais de uma vez.
 $comando = new MongoDB\Driver\Command( [
     'aggregate' => 'pages',
     'pipeline' => [
@@ -25,14 +26,12 @@ $comando = new MongoDB\Driver\Command( [
     'cursor' => new stdClass,
 ] );
 
-// Criar um cursor para o resultado
+// Executar o comando criando um cursor para o resultado
 $cursor = $conn->executeCommand('reficio', $comando);
 
 // Mostrar o resultado
-foreach ($cursor as $document) {
-    $doc = get_object_vars($document);
-    // var_dump($doc);
+foreach ($cursor as $documento) {
+    $doc = get_object_vars($documento);
     echo $doc["_id"] . "; " . $doc["contador"] . "<br />";
 }
-
 ?>
