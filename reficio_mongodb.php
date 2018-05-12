@@ -4,12 +4,11 @@
  * Gera o arquivo a ser importado pelo MongoDB
  * a partir das páginas do WordPress.
  *
- * Este script é colocado no diretório raiz do
- * WordPress, enquanto o arquivo de saída é
- * escrito no diretório do tema ativo.
+ * O arquivo de saída é escrito no diretório
+ * do tema ativo (TEMPLATEPATH).
  *
- * Este script é baseado no script desenvolvido
- * por Gabriele Romanato mostrado na página:
+ * Baseado no script desenvolvido por
+ * Gabriele Romanato, mostrado na página:
  * How to export data from WordPress to MongoDB
  * https://gabrieleromanato.name/how-to-export-data-from-wordpress-to-mongodb
  */
@@ -20,7 +19,7 @@ $loop        = new WP_Query( array(
     'post_type' => 'page',
     'posts_per_page' => -1 
 ) );
-$data        = array();
+$data = array();
 while ( $loop->have_posts() ):
     $loop->the_post();
     $id              = get_the_ID();
@@ -45,7 +44,7 @@ while ( $loop->have_posts() ):
     $datum                = array();
     $datum['id']          = $id;
     $datum['title']       = get_the_title();
-    $datum['date']        = new \MongoDB\BSON\UTCDateTime(strtotime(get_the_date( 'Y-m-d\TH:i:s\Z', $id )));
+    $datum['date']        = get_the_date( 'Y-m-d\TH:i:s\Z', $id );
     $datum['content']     = get_the_content();
     $datum['excerpt']     = strip_tags( get_the_excerpt() );
     $datum['slug']        = basename( get_permalink( $id ) );
