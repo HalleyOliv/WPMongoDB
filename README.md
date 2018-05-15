@@ -5,4 +5,4 @@ Este trabalho tem por finalidade procurar alternativas de consulta ao conteúdo 
 
 Exporting Wordpress data to MongoDB for queries
 
-This work aims to look for alternatives to query the content of Reficio site (http://reficio.cc/), developed with WordPress, exporting the information maintained in the WordPress’s MySQL relational database manager system to the document oriented database manager MongoDB. See the text in "Integration of MongoDB with WordPress" (http://reficio.cc/integration-of-mongodb-with-wordpress/).
+This work aims to look for alternatives to query the content of Reficio site (http://reficio.cc/), developed with WordPress, exporting the information maintained in the WordPress MySQL relational database manager system, to the document oriented database manager MongoDB. See the text in "Integration of MongoDB with WordPress" (http://reficio.cc/integration-of-mongodb-with-wordpress/).
