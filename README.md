@@ -7,7 +7,7 @@ In addition to showing examples of geospatial queries, it is shown how to downlo
 
 See the text in "Integration of MongoDB with WordPress" (http://reficio.cc/integration-of-mongodb-with-wordpress/).
 
-PT-BR
+(PT-BR)
 
 Exportação dos dados do Wordpress para o MongoDB para realizar consultas
 
