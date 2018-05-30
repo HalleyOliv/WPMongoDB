@@ -25,10 +25,10 @@ gpx.write("\t\t\t</link>\n")
 gpx.write("\t\t</author>\n")
 gpx.write("\t</metadata>\n")
 
-def wpt(id_geo, id, lat, lon):
+def wpt(name, desc, lat, lon):
     gpx.write("\t<wpt lat=\"" + lat + "\" lon=\"" + lon + "\">\n")
-    gpx.write("\t\t<name>" + id_geo + "</name>\n")
-    gpx.write("\t\t<desc>" + id + "</desc>\n")
+    gpx.write("\t\t<name>" + name + "</name>\n")
+    gpx.write("\t\t<desc>" + desc + "</desc>\n")
     gpx.write("\t</wpt>\n")
     return
 
