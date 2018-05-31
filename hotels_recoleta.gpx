@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Reficio - http://reficio.cc" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>Hotels in Buenos Aires in the neighborhood of Recoleta</name>
+		<desc>Buenos Aires Data + Geonames</desc>
+		<author>
+			<name>Halley Pacheco de Oliveira</name>
+			<email id="reficio" domain="reficio.cc" />
+			<link href="http://reficio.cc/">
+				<text>Reficio</text>
+			</link>
+		</author>
+	</metadata>
+	<wpt lat="-34.5978" lon="-58.3911">
+		<name>Design Suites Buenos Aires</name>
+		<desc>6464466</desc>
+	</wpt>
+	<wpt lat="-34.5895" lon="-58.3996">
+		<name>Kempinski Hotel Park Elegance Buenos Aires</name>
+		<desc>6469319</desc>
+	</wpt>
+	<wpt lat="-34.5863" lon="-58.3904">
+		<name>Caesar Park Buenos Aires</name>
+		<desc>6476182</desc>
+	</wpt>
+	<wpt lat="-34.599" lon="-58.3928">
+		<name>Buenos Aires Wilton Hotel</name>
+		<desc>6479723</desc>
+	</wpt>
+	<wpt lat="-34.5865" lon="-58.3885">
+		<name>Melia Recoleta Plaza</name>
+		<desc>6495468</desc>
+	</wpt>
+	<wpt lat="-34.58831" lon="-58.39117">
+		<name>Etoile Hotel Recoleta</name>
+		<desc>6514356</desc>
+	</wpt>
+	<wpt lat="-34.58284" lon="-58.39349">
+		<name>Obelisco Republica Hotel</name>
+		<desc>6519373</desc>
+	</wpt>
+	<wpt lat="-34.58909" lon="-58.40774">
+		<name>ayres de palermo</name>
+		<desc>6956147</desc>
+	</wpt>
+	<wpt lat="-34.58838" lon="-58.39438">
+		<name>ayres de recoleta</name>
+		<desc>6956148</desc>
+	</wpt>
+	<wpt lat="-34.58869" lon="-58.39158">
+		<name>ayres de recoleta plaza</name>
+		<desc>6956149</desc>
+	</wpt>
+	<wpt lat="-34.58841" lon="-58.40079">
+		<name>blue tree recoleta</name>
+		<desc>6956154</desc>
+	</wpt>
+	<wpt lat="-34.5945" lon="-58.39315">
+		<name>concord callao temporary apartments</name>
+		<desc>6956170</desc>
+	</wpt>
+	<wpt lat="-34.58735" lon="-58.40729">
+		<name>dazzler suites juncal</name>
+		<desc>6956176</desc>
+	</wpt>
+	<wpt lat="-34.59523" lon="-58.39324">
+		<name>wilton palace</name>
+		<desc>6956289</desc>
+	</wpt>
+	<wpt lat="-34.5915" lon="-58.4027">
+		<name>onze boutique</name>
+		<desc>6956318</desc>
+	</wpt>
+	<wpt lat="-34.59339" lon="-58.41362">
+		<name>1551 palermo boutique hotel</name>
+		<desc>6956431</desc>
+	</wpt>
+	<wpt lat="-34.59338" lon="-58.39311">
+		<name>alma de buenos aires hotel boutique</name>
+		<desc>6956453</desc>
+	</wpt>
+	<wpt lat="-34.59328" lon="-58.38983">
+		<name>apart plaza san martin suites</name>
+		<desc>6956472</desc>
+	</wpt>
+	<wpt lat="-34.59668" lon="-58.39332">
+		<name>callao plaza suites</name>
+		<desc>6956676</desc>
+	</wpt>
+	<wpt lat="-34.58417" lon="-58.39937">
+		<name>chateau blend hotel</name>
+		<desc>6956741</desc>
+	</wpt>
+	<wpt lat="-34.5975" lon="-58.39444">
+		<name>concord callao by temporary</name>
+		<desc>6956751</desc>
+	</wpt>
+	<wpt lat="-34.59435" lon="-58.39337">
+		<name>concord recoleta suites</name>
+		<desc>6956752</desc>
+	</wpt>
+	<wpt lat="-34.59819" lon="-58.39976">
+		<name>don telmo hotel</name>
+		<desc>6956791</desc>
+	</wpt>
+	<wpt lat="-34.59715" lon="-58.38923">
+		<name>edificio piccaluga</name>
+		<desc>6956858</desc>
+	</wpt>
+	<wpt lat="-34.58883" lon="-58.40286">
+		<name>hollywood suites and lofts</name>
+		<desc>6956989</desc>
+	</wpt>
+	<wpt lat="-34.58566" lon="-58.38874">
+		<name>hotel plaza francia</name>
+		<desc>6957074</desc>
+	</wpt>
+	<wpt lat="-34.58637" lon="-58.39892">
+		<name>howard johnson classic</name>
+		<desc>6957118</desc>
+	</wpt>
+	<wpt lat="-34.58306" lon="-58.39099">
+		<name>loi suites esmeralda</name>
+		<desc>6957231</desc>
+	</wpt>
+	<wpt lat="-34.5867" lon="-58.3877">
+		<name>Meliá Recoleta Plaza Boutique Hotel</name>
+		<desc>6957256</desc>
+	</wpt>
+	<wpt lat="-34.58898" lon="-58.39274">
+		<name>urban suites recoleta</name>
+		<desc>6957493</desc>
+	</wpt>
+	<wpt lat="-34.5941" lon="-58.3998">
+		<name>Premiere Arenales Suites</name>
+		<desc>7284769</desc>
+	</wpt>
+	<wpt lat="-34.589" lon="-58.3927">
+		<name>Urban Suites Recoleta Boutique Hotel</name>
+		<desc>7284787</desc>
+	</wpt>
+	<wpt lat="-34.59352" lon="-58.39796">
+		<name>Sudamerika Hostel &amp; Suites Recoleta</name>
+		<desc>7873964</desc>
+	</wpt>
+	<wpt lat="-34.59642" lon="-58.39326">
+		<name>Casasur Art</name>
+		<desc>9885404</desc>
+	</wpt>
+	<wpt lat="-34.58743" lon="-58.39251">
+		<name>Cyan Hotel - Ex Dazzler Suites Recoleta</name>
+		<desc>9885601</desc>
+	</wpt>
+	<wpt lat="-34.58857" lon="-58.40089">
+		<name>Dazzler Laprida Hotel</name>
+		<desc>9964719</desc>
+	</wpt>
+	<wpt lat="-34.58953" lon="-58.38947">
+		<name>Intersur Recoleta Hotel</name>
+		<desc>9964727</desc>
+	</wpt>
+	<wpt lat="-34.58869" lon="-58.38964">
+		<name>Mio Buenos Aires</name>
+		<desc>9964740</desc>
+	</wpt>
+	<wpt lat="-34.5906" lon="-58.40057">
+		<name>Studio Pueyrredon By Temporary Apartments</name>
+		<desc>9964749</desc>
+	</wpt>
+	<wpt lat="-34.58883" lon="-58.39941">
+		<name>Park Elegance Unique Hotel (Ex-Kempinski)</name>
+		<desc>9965404</desc>
+	</wpt>
+	<wpt lat="-34.5884" lon="-58.4008">
+		<name>Ilios Recoleta</name>
+		<desc>9965407</desc>
+	</wpt>
+	<wpt lat="-34.58873" lon="-58.39952">
+		<name>Unique Art Elegance</name>
+		<desc>10107760</desc>
+	</wpt>
+	<wpt lat="-34.58549" lon="-58.38876">
+		<name>Esplendor Plaza Francia</name>
+		<desc>10108160</desc>
+	</wpt>
+	<wpt lat="-34.59713" lon="-58.39161">
+		<name>Design Ce Hotel De Diseno</name>
+		<desc>10108321</desc>
+	</wpt>
+	<wpt lat="-34.59212" lon="-58.39134">
+		<name>Buenos Aires Grand Hotel Recol</name>
+		<desc>10108322</desc>
+	</wpt>
+	<wpt lat="-34.5871" lon="-58.39481">
+		<name>Sileo Hotel</name>
+		<desc>10108323</desc>
+	</wpt>
+	<wpt lat="-34.58873" lon="-58.39549">
+		<name>Dazzler Tower Recoleta</name>
+		<desc>10108335</desc>
+	</wpt>
+	<wpt lat="-34.58934" lon="-58.38659">
+		<name>Park Hyatt Palacio Duhau</name>
+		<desc>10110769</desc>
+	</wpt>
+	<wpt lat="-34.58926" lon="-58.40695">
+		<name>Beruti Flats</name>
+		<desc>10113332</desc>
+	</wpt>
+	<wpt lat="-34.59003" lon="-58.40268">
+		<name>Laprida Flats</name>
+		<desc>10114072</desc>
+	</wpt>
+	<wpt lat="-34.58954" lon="-58.38774">
+		<name>Club Frances</name>
+		<desc>10117785</desc>
+	</wpt>
+	<wpt lat="-34.59457" lon="-58.39378">
+		<name>Arenales Apartments And Suites</name>
+		<desc>10118646</desc>
+	</wpt>
+	<wpt lat="-34.59302" lon="-58.3963">
+		<name>Apartments Rent In Buenos Aires</name>
+		<desc>10118648</desc>
+	</wpt>
+	<wpt lat="-34.59079" lon="-58.3972">
+		<name>Art Suites And Gallery</name>
+		<desc>10121929</desc>
+	</wpt>
+	<wpt lat="-34.59495" lon="-58.39304">
+		<name>Concord Callao Suites</name>
+		<desc>10121943</desc>
+	</wpt>
+	<wpt lat="-34.588" lon="-58.401">
+		<name>Palacio Chic Boutique Hotel</name>
+		<desc>10121944</desc>
+	</wpt>
+	<wpt lat="-34.58836" lon="-58.40082">
+		<name>Unique Palacio Chic Boutique</name>
+		<desc>10125675</desc>
+	</wpt>
+	<wpt lat="-34.59477" lon="-58.39367">
+		<name>Sunlight Recoleta Apartments &amp; Suites</name>
+		<desc>10227553</desc>
+	</wpt>
+	<wpt lat="-34.59082" lon="-58.39728">
+		<name>Art Suites &amp; Gallery</name>
+		<desc>10228918</desc>
+	</wpt>
+	<wpt lat="-34.59477" lon="-58.39367">
+		<name>Sunlight Recoleta Apartments and Suites</name>
+		<desc>10243118</desc>
+	</wpt>
+	<wpt lat="-34.59787" lon="-58.39311">
+		<name>Callao Plaza Suites Apartments</name>
+		<desc>10243598</desc>
+	</wpt>
+	<wpt lat="-34.59123" lon="-58.38746">
+		<name>Algodon Mansion</name>
+		<desc>10247084</desc>
+	</wpt>
+	<wpt lat="-34.59334" lon="-58.39692">
+		<name>Poetry Building Recoleta</name>
+		<desc>10247122</desc>
+	</wpt>
+	<wpt lat="-34.59502" lon="-58.39056">
+		<name>Prince Hotel</name>
+		<desc>10247134</desc>
+	</wpt>
+	<wpt lat="-34.59225" lon="-58.39543">
+		<name>Howard Johnson Boutique Recoleta</name>
+		<desc>10277034</desc>
+	</wpt>
+	<wpt lat="-34.59" lon="-58.41">
+		<name>Vida Baires</name>
+		<desc>10288624</desc>
+	</wpt>
+	<wpt lat="-34.59406" lon="-58.39984">
+		<name>Premier Arenales Suites</name>
+		<desc>10288630</desc>
+	</wpt>
+	<wpt lat="-34.59322" lon="-58.40848">
+		<name>Milonga Guest House</name>
+		<desc>10288633</desc>
+	</wpt>
+	<wpt lat="-34.5884" lon="-58.4008">
+		<name>Blue Tree Hotels Recoleta Ker</name>
+		<desc>10288647</desc>
+	</wpt>
+	<wpt lat="-34.59" lon="-58.4">
+		<name>Arenales Apart Hotel</name>
+		<desc>10288650</desc>
+	</wpt>
+	<wpt lat="-34.59635" lon="-58.39191">
+		<name>Babel Recoleta</name>
+		<desc>10302625</desc>
+	</wpt>
+	<wpt lat="-34.58417" lon="-58.39937">
+		<name>Alta Piazza</name>
+		<desc>11279756</desc>
+	</wpt>
+</gpx>
