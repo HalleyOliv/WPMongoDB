@@ -1,5 +1,6 @@
 # This script genaretes a gpx file for idee_faros_espana collection.
 import json
+import html
 import numpy as np
 from pymongo import MongoClient
 
@@ -18,7 +19,7 @@ gpx.write("\t\t<name>Faros de España - Lighthouses of Spain</name>\n")
 gpx.write("\t\t<desc>Geoportal IDEE - Infraestructura de Datos Espaciales de España</desc>\n")
 gpx.write("\t\t<author>\n")
 gpx.write("\t\t\t<name>Halley Pacheco de Oliveira</name>\n")
-gpx.write("\t\t\t<email id=\"halleypo\" domain=\"gmail.com\" />\n")
+gpx.write("\t\t\t<email id=\"reficio\" domain=\"reficio.cc\" />\n")
 gpx.write("\t\t\t<link href=\"http://reficio.cc/\">\n")
 gpx.write("\t\t\t\t<text>Reficio</text>\n")
 gpx.write("\t\t\t</link>\n")
@@ -27,8 +28,8 @@ gpx.write("\t</metadata>\n")
 
 def wpt(name, desc, lat, lon):
     gpx.write("\t<wpt lat=\"" + lat + "\" lon=\"" + lon + "\">\n")
-    gpx.write("\t\t<name>" + name + "</name>\n")
-    gpx.write("\t\t<desc>" + desc + "</desc>\n")
+    gpx.write("\t\t<name>" + html.escape(name) + "</name>\n")
+    gpx.write("\t\t<desc>" + html.escape(desc) + "</desc>\n")
     gpx.write("\t</wpt>\n")
     return
 
