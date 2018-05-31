@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Reficio - http://reficio.cc" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>Igreja de Nossa Senhora da Candelária - Praça Pio X</name>
+		<desc>Praça Pio X, s/n - Centro, Rio de Janeiro - RJ, 20040-020, Brazil</desc>
+		<author>
+			<name>Halley Pacheco de Oliveira</name>
+			<email id="reficio" domain="reficio.cc" />
+			<link href="http://reficio.cc/">
+				<text>Reficio</text>
+			</link>
+		</author>
+	</metadata>
+	<wpt lat="-22.9008826" lon="-43.1778419">
+		<name>Igreja de Nossa Senhora da Candelária - Praça Pio X</name>
+		<desc>Praça Pio X, s/n - Centro, Rio de Janeiro - RJ, 20040-020, Brazil</desc>
+	</wpt>
+</gpx>
