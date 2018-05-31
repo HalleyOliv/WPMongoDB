@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Reficio - http://reficio.cc" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>Faros de España - Lighthouses of Spain</name>
+		<desc>Geoportal IDEE - Infraestructura de Datos Espaciales de España</desc>
+		<author>
+			<name>Halley Pacheco de Oliveira</name>
+			<email id="reficio" domain="reficio.cc" />
+			<link href="http://reficio.cc/">
+				<text>Reficio</text>
+			</link>
+		</author>
+	</metadata>
+	<wpt lat="38.2094727090001" lon="-0.513488796999923">
+		<name>Faro de Santa Pola</name>
+		<desc>2301141</desc>
+	</wpt>
+	<wpt lat="38.1641237900001" lon="-0.471191441999906">
+		<name>Faro de Tabarca</name>
+		<desc>2301143</desc>
+	</wpt>
+	<wpt lat="38.8031012550001" lon="0.197085783000091">
+		<name>Faro de San Antonio</name>
+		<desc>2255938</desc>
+	</wpt>
+	<wpt lat="38.732117632" lon="0.231082644000082">
+		<name>Faro de la Nao</name>
+		<desc>2256029</desc>
+	</wpt>
+	<wpt lat="40.083129768" lon="0.147094542000048">
+		<name>Faro de Orpesa</name>
+		<desc>2126326</desc>
+	</wpt>
+	<wpt lat="39.8999032150001" lon="0.686521522000078">
+		<name>Faro Columbretes</name>
+		<desc>2140604</desc>
+	</wpt>
+	<wpt lat="40.7905273430001" lon="0.768493642000067">
+		<name>Faro del Fangar</name>
+		<desc>2063289</desc>
+	</wpt>
+	<wpt lat="37.7459109310001" lon="-0.725708408999935">
+		<name>Faro del Estacio</name>
+		<desc>2350419</desc>
+	</wpt>
+	<wpt lat="37.579285031" lon="-0.842100396999911">
+		<name>Faro de Portman</name>
+		<desc>2367613</desc>
+	</wpt>
+	<wpt lat="37.1732787010001" lon="-1.82360792799994">
+		<name>Faro de Garrucha Castillo de Jesús Nazareno</name>
+		<desc>2400054</desc>
+	</wpt>
+	<wpt lat="36.9417126810001" lon="-1.90667809199994">
+		<name>Faro Roldán</name>
+		<desc>2422926</desc>
+	</wpt>
+	<wpt lat="36.753113424" lon="-2.60632426599994">
+		<name>Faro de Roquetas</name>
+		<desc>2433451</desc>
+	</wpt>
+	<wpt lat="36.6959230860001" lon="-2.84741402799995">
+		<name>Faro de Baños</name>
+		<desc>2433657</desc>
+	</wpt>
+	<wpt lat="36.6870735430001" lon="-2.7012959699999">
+		<name>Faro del Sabinar</name>
+		<desc>2433660</desc>
+	</wpt>
+	<wpt lat="36.8286745200001" lon="-2.49169926299993">
+		<name>Faro de San Telmo</name>
+		<desc>2433783</desc>
+	</wpt>
+	<wpt lat="36.721678818" lon="-2.19281065399991">
+		<name>Faro de Cabo de Gata</name>
+		<desc>2433916</desc>
+	</wpt>
+	<wpt lat="36.7349235470001" lon="-4.09619200299994">
+		<name>Faro de Torre del Mar</name>
+		<desc>2430960</desc>
+	</wpt>
+	<wpt lat="35.8983992597609" lon="-5.28083182194482">
+		<name>Faro de Ceuta</name>
+		<desc>2445529</desc>
+	</wpt>
+	<wpt lat="36.5075073570001" lon="-4.63958726599992">
+		<name>Faro de Calaburras</name>
+		<desc>2439333</desc>
+	</wpt>
+	<wpt lat="36.8065191600001" lon="-6.3270886299999">
+		<name>Faro de San Jerónimo</name>
+		<desc>2423408</desc>
+	</wpt>
+	<wpt lat="36.1831059710001" lon="-6.03491296099992">
+		<name>Faro de Trafalgar</name>
+		<desc>2443199</desc>
+	</wpt>
+	<wpt lat="36.090087817" lon="-5.81091308499992">
+		<name>Faro de Camarinal</name>
+		<desc>2444699</desc>
+	</wpt>
+	<wpt lat="36.0012814060001" lon="-5.60949908099991">
+		<name>Faro de Tarifa</name>
+		<desc>2445050</desc>
+	</wpt>
+	<wpt lat="43.4669174320001" lon="-3.76397414199994">
+		<name>Faro de la Cerda</name>
+		<desc>1670023</desc>
+	</wpt>
+	<wpt lat="43.4904780750001" lon="-3.79070946">
+		<name>Faro de Cabo Mayor</name>
+		<desc>1670036</desc>
+	</wpt>
+	<wpt lat="43.4514767100001" lon="-3.42559286699992">
+		<name>Faro del Caballo</name>
+		<desc>1671305</desc>
+	</wpt>
+	<wpt lat="43.4642939840001" lon="-3.43560206299992">
+		<name>Faro del Pescador</name>
+		<desc>1671306</desc>
+	</wpt>
+	<wpt lat="43.4729005140001" lon="-5.08300769599992">
+		<name>Faro de Ribadesella</name>
+		<desc>1666128</desc>
+	</wpt>
+	<wpt lat="43.4202885660001" lon="-4.74749770299991">
+		<name>Faro de San Antón</name>
+		<desc>1667801</desc>
+	</wpt>
+	<wpt lat="43.3994759540001" lon="-4.53448537899993">
+		<name>Faro de San Emeterio</name>
+		<desc>1668359</desc>
+	</wpt>
+	<wpt lat="43.5477294900001" lon="-5.3989868">
+		<name>Faro de Tazones</name>
+		<desc>1647928</desc>
+	</wpt>
+	<wpt lat="43.565307364" lon="-6.14440900699992">
+		<name>Faro de Cudillero</name>
+		<desc>1645792</desc>
+	</wpt>
+	<wpt lat="43.6558840260001" lon="-5.84851004399991">
+		<name>Faro Cabo de Peñas</name>
+		<desc>1646889</desc>
+	</wpt>
+	<wpt lat="43.5720826" lon="-5.69909721599993">
+		<name>Faro Torres</name>
+		<desc>1647305</desc>
+	</wpt>
+	<wpt lat="43.5343017170001" lon="-5.30059768899991">
+		<name>Faro de Lastres</name>
+		<desc>1648186</desc>
+	</wpt>
+	<wpt lat="43.5957035870001" lon="-5.94470155099992">
+		<name>Faro de San Juan</name>
+		<desc>1645520</desc>
+	</wpt>
+	<wpt lat="43.5745243200001" lon="-6.94568104599995">
+		<name>Faro de Tapia</name>
+		<desc>1643656</desc>
+	</wpt>
+	<wpt lat="43.563720801" lon="-6.7348022499999">
+		<name>Faro de San Agustín</name>
+		<desc>1643971</desc>
+	</wpt>
+	<wpt lat="43.5567018130001" lon="-7.04199618699994">
+		<name>Faro de Ribadeo</name>
+		<desc>1643279</desc>
+	</wpt>
+	<wpt lat="43.5499268300001" lon="-6.53277602599991">
+		<name>Faro de Luarca</name>
+		<desc>1644295</desc>
+	</wpt>
+	<wpt lat="43.5690917630001" lon="-6.46917723699994">
+		<name>Faro de Busto</name>
+		<desc>1644643</desc>
+	</wpt>
+	<wpt lat="43.5933222740001" lon="-6.24310262799992">
+		<name>Faro de Vidio</name>
+		<desc>1644476</desc>
+	</wpt>
+	<wpt lat="43.7711173470001" lon="-7.8698118299999">
+		<name>Faro do Cabo Ortegal</name>
+		<desc>1635908</desc>
+	</wpt>
+	<wpt lat="43.7108772270001" lon="-8.04718185899992">
+		<name>Faro de Candeeira</name>
+		<desc>1635980</desc>
+	</wpt>
+	<wpt lat="43.38287117" lon="-8.35120120299996">
+		<name>Faro de Mera</name>
+		<desc>1649483</desc>
+	</wpt>
+	<wpt lat="43.7359000480001" lon="-7.52520719499995">
+		<name>Faro de Roncadoira</name>
+		<desc>1637006</desc>
+	</wpt>
+	<wpt lat="43.567686811" lon="-8.31440127799993">
+		<name>Faro do Cabo Prior</name>
+		<desc>1637586</desc>
+	</wpt>
+	<wpt lat="43.6511240070001" lon="-8.06988732799994">
+		<name>Faro de Robaleira</name>
+		<desc>1637959</desc>
+	</wpt>
+	<wpt lat="43.6181034410001" lon="-8.18842151399991">
+		<name>Faro de Punta Frouxeira</name>
+		<desc>1637394</desc>
+	</wpt>
+	<wpt lat="43.3596799700001" lon="-8.84430151799995">
+		<name>Faro das Sisargas</name>
+		<desc>1648247</desc>
+	</wpt>
+	<wpt lat="43.320678721" lon="-8.91009660399993">
+		<name>Faro de Punta Nariga</name>
+		<desc>1674710</desc>
+	</wpt>
+	<wpt lat="43.2750855120001" lon="-8.99060115299994">
+		<name>Faro do Roncudo</name>
+		<desc>1674711</desc>
+	</wpt>
+	<wpt lat="43.2322998490001" lon="-9.01129171799994">
+		<name>Faro de Laxe</name>
+		<desc>1675003</desc>
+	</wpt>
+	<wpt lat="43.1245117550001" lon="-9.18530272899994">
+		<name>Faro de Camariñas</name>
+		<desc>1713618</desc>
+	</wpt>
+	<wpt lat="43.160522568" lon="-9.21148675599994">
+		<name>Faro do Cabo Vilán</name>
+		<desc>1713155</desc>
+	</wpt>
+	<wpt lat="43.0537110210001" lon="-9.29791243199992">
+		<name>Faro de Touriñán</name>
+		<desc>1713263</desc>
+	</wpt>
+	<wpt lat="42.882507349" lon="-9.27191158699992">
+		<name>Faro de Fisterra</name>
+		<desc>1742485</desc>
+	</wpt>
+	<wpt lat="42.9165038580001" lon="-9.18359385199994">
+		<name>Faro de Cee</name>
+		<desc>1743241</desc>
+	</wpt>
+	<wpt lat="42.7703247160001" lon="-9.04809570799995">
+		<name>Faro de Rebordiño</name>
+		<desc>1765378</desc>
+	</wpt>
+	<wpt lat="42.7393188280001" lon="-8.99078371299993">
+		<name>Faro de Caveiro</name>
+		<desc>1766157</desc>
+	</wpt>
+	<wpt lat="42.7725219930001" lon="-9.12487793199995">
+		<name>Faro de Punta Insua</name>
+		<desc>1765391</desc>
+	</wpt>
+	<wpt lat="42.7393188660001" lon="-9.07861327699993">
+		<name>Faro de Louro</name>
+		<desc>1765967</desc>
+	</wpt>
+	<wpt lat="42.576294003" lon="-9.09020987099996">
+		<name>Faro Corrubedo</name>
+		<desc>1790458</desc>
+	</wpt>
+	<wpt lat="42.5725097110001" lon="-8.88391120399996">
+		<name>Faro do Cabalo</name>
+		<desc>1790673</desc>
+	</wpt>
+	<wpt lat="42.5139160100001" lon="-8.82000738499994">
+		<name>Faro do Martelo</name>
+		<desc>1791993</desc>
+	</wpt>
+	<wpt lat="42.482116708" lon="-8.94738768299993">
+		<name>Faro Pombeiriño</name>
+		<desc>1817523</desc>
+	</wpt>
+	<wpt lat="42.4979247970001" lon="-8.90948488099991">
+		<name>Faro do Con do Estro</name>
+		<desc>1817531</desc>
+	</wpt>
+	<wpt lat="42.347717517" lon="-8.81988519199996">
+		<name>Faro Cabezo da Mourisca</name>
+		<desc>1819024</desc>
+	</wpt>
+	<wpt lat="42.1915285540001" lon="-8.89080799499993">
+		<name>Faro dos Bicos</name>
+		<desc>1846891</desc>
+	</wpt>
+	<wpt lat="42.2141115040001" lon="-8.91510000499994">
+		<name>Faro de Cíes</name>
+		<desc>1846892</desc>
+	</wpt>
+	<wpt lat="42.2122804540001" lon="-8.91278066999996">
+		<name>Faro do Príncipe</name>
+		<desc>1846893</desc>
+	</wpt>
+	<wpt lat="42.243286357" lon="-8.9030760679999">
+		<name>Faro do Peito</name>
+		<desc>1846894</desc>
+	</wpt>
+	<wpt lat="42.241089377" lon="-8.79229712699993">
+		<name>Faro Borneira</name>
+		<desc>1848233</desc>
+	</wpt>
+	<wpt lat="42.1564945300001" lon="-8.84979229399994">
+		<name>Faro da Meda</name>
+		<desc>1878638</desc>
+	</wpt>
+	<wpt lat="42.1046752650001" lon="-8.89678954099992">
+		<name>Faro Silleiro</name>
+		<desc>1878088</desc>
+	</wpt>
+	<wpt lat="42.1113281140001" lon="-8.89910887599996">
+		<name>Faro Vello</name>
+		<desc>1878086</desc>
+	</wpt>
+	<wpt lat="39.961486854" lon="3.21227994400004">
+		<name>Faro de Formentor</name>
+		<desc>2142064</desc>
+	</wpt>
+	<wpt lat="39.7156984260001" lon="3.47772269900008">
+		<name>Faro de Capdepera</name>
+		<desc>2160832</desc>
+	</wpt>
+	<wpt lat="37.1080938270001" lon="-6.83239892499995">
+		<name>Faro del Espigón</name>
+		<desc>2400160</desc>
+	</wpt>
+	<wpt lat="27.7067260750001" lon="-18.1472778319999">
+		<name>Faro de Orchilla</name>
+		<desc>2619411</desc>
+	</wpt>
+	<wpt lat="28.065673829" lon="-14.5072021479999">
+		<name>Faro de Jandía</name>
+		<desc>2621385</desc>
+	</wpt>
+	<wpt lat="28.2302856460001" lon="-13.9484863279999">
+		<name>Faro de la Entallada</name>
+		<desc>2621386</desc>
+	</wpt>
+	<wpt lat="28.764892579" lon="-13.814880371">
+		<name>Faro de Lobos </name>
+		<desc>2621387</desc>
+	</wpt>
+	<wpt lat="28.0460815440001" lon="-14.3330078119999">
+		<name>Faro de Morro Jable</name>
+		<desc>2621388</desc>
+	</wpt>
+	<wpt lat="28.7155151380001" lon="-14.01361084">
+		<name>Faro de Tostón</name>
+		<desc>2621389</desc>
+	</wpt>
+	<wpt lat="28.109924317" lon="-14.490905762">
+		<name>Faro del Pesebre</name>
+		<desc>2621390</desc>
+	</wpt>
+	<wpt lat="28.5054931650001" lon="-13.843688965">
+		<name>Faro Puerto Rosario </name>
+		<desc>2621391</desc>
+	</wpt>
+	<wpt lat="27.8638916020001" lon="-15.38470459">
+		<name>Faro de Arinaga </name>
+		<desc>2625207</desc>
+	</wpt>
+	<wpt lat="28.1740722660001" lon="-15.4190063479999">
+		<name>Faro de la Isleta </name>
+		<desc>2625209</desc>
+	</wpt>
+	<wpt lat="27.7352905280001" lon="-15.5988769529999">
+		<name>Faro de Maspalomas</name>
+		<desc>2625210</desc>
+	</wpt>
+	<wpt lat="27.8182983410001" lon="-15.7675781249999">
+		<name>Faro de Mogán </name>
+		<desc>2625211</desc>
+	</wpt>
+	<wpt lat="28.1646728520001" lon="-15.7078857419999">
+		<name>Faro de Sardina </name>
+		<desc>2625212</desc>
+	</wpt>
+	<wpt lat="28.0958862320001" lon="-17.0999755859999">
+		<name>Faro de San Cristóbal </name>
+		<desc>2628187</desc>
+	</wpt>
+	<wpt lat="28.8558959970001" lon="-13.8728027349999">
+		<name>Faro de Pechiguera</name>
+		<desc>2629208</desc>
+	</wpt>
+	<wpt lat="29.4035034190001" lon="-13.4885253899999">
+		<name>Faro de Punta Delgada </name>
+		<desc>2629209</desc>
+	</wpt>
+	<wpt lat="28.455078126" lon="-17.8436889639999">
+		<name>Faro de Fuencaliente</name>
+		<desc>2630919</desc>
+	</wpt>
+	<wpt lat="28.839111329" lon="-17.7791748049999">
+		<name>Faro de Punta Cumplida</name>
+		<desc>2630920</desc>
+	</wpt>
+	<wpt lat="28.1483154310001" lon="-16.4271850579999">
+		<name>Faro de Abona </name>
+		<desc>2634404</desc>
+	</wpt>
+	<wpt lat="28.5814819340001" lon="-16.1400756829999">
+		<name>Faro de Anaga </name>
+		<desc>2634405</desc>
+	</wpt>
+	<wpt lat="28.0010986340001" lon="-16.6943969729999">
+		<name>Faro de la Rasca</name>
+		<desc>2634407</desc>
+	</wpt>
+	<wpt lat="28.3421020520001" lon="-16.9229125979999">
+		<name>Faro de Punta de Teno </name>
+		<desc>2634409</desc>
+	</wpt>
+	<wpt lat="28.5764770520001" lon="-16.3287963859999">
+		<name>Faro de Punta del Hidalgo </name>
+		<desc>2634410</desc>
+	</wpt>
+	<wpt lat="43.3464968250001" lon="-3.03198137199996">
+		<name>Faro del Rompeolas</name>
+		<desc>1671979</desc>
+	</wpt>
+	<wpt lat="43.3419191890001" lon="-3.0275869199999">
+		<name>Faro del Contramuelle</name>
+		<desc>1671987</desc>
+	</wpt>
+	<wpt lat="43.4545273740001" lon="-2.75372164199996">
+		<name>Faro Viejo</name>
+		<desc>1672885</desc>
+	</wpt>
+	<wpt lat="43.3350830210001" lon="-1.93420260099992">
+		<name>Faro de la Plata</name>
+		<desc>1674237</desc>
+	</wpt>
+	<wpt lat="43.3353272420001" lon="-1.92431486099991">
+		<name>Faro Atalaia</name>
+		<desc>1674238</desc>
+	</wpt>
+</gpx>
