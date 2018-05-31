@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Reficio - http://reficio.cc" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>Cidades do Estado do Rio de Janeiro - Cities of the State of Rio de Janeiro</name>
+		<desc>IBGE (Instituto Brasileiro de Geografia e Estatística / Brazilian Institute of Geography and Statistics)</desc>
+		<author>
+			<name>Halley Pacheco de Oliveira</name>
+			<email id="reficio" domain="reficio.cc" />
+			<link href="http://reficio.cc/">
+				<text>Reficio</text>
+			</link>
+		</author>
+	</metadata>
+	<wpt lat="-23.0091159352755" lon="-44.3196272622666">
+		<name>ANGRA DOS REIS</name>
+		<desc>BAÍA DA ILHA GRANDE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.6194217697861" lon="-42.1049166541126">
+		<name>APERIBÉ</name>
+		<desc>SANTO ANTÔNIO DE PÁDUA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.8774383873544" lon="-42.3410960231634">
+		<name>ARARUAMA</name>
+		<desc>LAGOS - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.2369120035668" lon="-43.1010698051683">
+		<name>AREAL</name>
+		<desc>TRÊS RIOS - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.7577637929238" lon="-41.8877494680881">
+		<name>ARMAÇÃO DOS BÚZIOS</name>
+		<desc>LAGOS - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.967638277584" lon="-42.0283359676368">
+		<name>ARRAIAL DO CABO</name>
+		<desc>LAGOS - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.469596292124" lon="-43.8284524538255">
+		<name>BARRA DO PIRAÍ</name>
+		<desc>BARRA DO PIRAÍ - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.5453011339305" lon="-44.1724313736866">
+		<name>BARRA MANSA</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.7645559675461" lon="-43.3996249708152">
+		<name>BELFORD ROXO</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.1533052283079" lon="-42.4172114822868">
+		<name>BOM JARDIM</name>
+		<desc>NOVA FRIBURGO - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.1344974418774" lon="-41.6776797949817">
+		<name>BOM JESUS DO ITABAPOANA</name>
+		<desc>ITAPERUNA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.880764667133" lon="-42.0200748019026">
+		<name>CABO FRIO</name>
+		<desc>LAGOS - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.4675708722497" lon="-42.6631643572627">
+		<name>CACHOEIRAS DE MACACU</name>
+		<desc>MACACU-CACERIBU - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-21.5772767096589" lon="-41.9086360046562">
+		<name>CAMBUCI</name>
+		<desc>SANTO ANTÔNIO DE PÁDUA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.1825947273674" lon="-41.6640105958578">
+		<name>CARAPEBUS</name>
+		<desc>MACAÉ - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.0333589383828" lon="-43.2172237155871">
+		<name>COMENDADOR LEVY GASPARIAN</name>
+		<desc>TRÊS RIOS - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.7518986320641" lon="-41.3304764918626">
+		<name>CAMPOS DOS GOYTACAZES</name>
+		<desc>CAMPOS DOS GOYTACAZES - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.9818398587921" lon="-42.365977599021">
+		<name>CANTAGALO</name>
+		<desc>CANTAGALO-CORDEIRO - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.4961573566676" lon="-41.6132963462101">
+		<name>CARDOSO MOREIRA</name>
+		<desc>CAMPOS DOS GOYTACAZES - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.9293117801394" lon="-42.6097176406817">
+		<name>CARMO</name>
+		<desc>CANTAGALO-CORDEIRO - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.4795365025548" lon="-42.204210544431">
+		<name>CASIMIRO DE ABREU</name>
+		<desc>BACIA DE SÃO JOÃO - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.0878715265254" lon="-41.8677585057148">
+		<name>CONCEIÇÃO DE MACABU</name>
+		<desc>MACAÉ - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.0277765631233" lon="-42.3630305379077">
+		<name>CORDEIRO</name>
+		<desc>CANTAGALO-CORDEIRO - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.0589060899401" lon="-42.515097631467">
+		<name>DUAS BARRAS</name>
+		<desc>NOVA FRIBURGO - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.7852532496542" lon="-43.3098880717226">
+		<name>DUQUE DE CAXIAS</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.5436846647273" lon="-43.6794768289526">
+		<name>ENGENHEIRO PAULO DE FRONTIN</name>
+		<desc>VASSOURAS - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.5195957941239" lon="-42.9783297043207">
+		<name>GUAPIMIRIM</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.8390569836941" lon="-42.2221245423239">
+		<name>IGUABA GRANDE</name>
+		<desc>LAGOS - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.7458630174263" lon="-42.8603434261964">
+		<name>ITABORAÍ</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.871250768422" lon="-43.7750406349418">
+		<name>ITAGUAÍ</name>
+		<desc>ITAGUAÍ - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-21.4251032779829" lon="-41.690964760493">
+		<name>ITALVA</name>
+		<desc>ITAPERUNA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.6705026732971" lon="-42.0777295245708">
+		<name>ITAOCARA</name>
+		<desc>SANTO ANTÔNIO DE PÁDUA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.2105910847538" lon="-41.8862031766506">
+		<name>ITAPERUNA</name>
+		<desc>ITAPERUNA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.4970145997172" lon="-44.562771994177">
+		<name>ITATIAIA</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.6448185711114" lon="-43.6537858009828">
+		<name>JAPERI</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-21.2057208352488" lon="-42.1311744192347">
+		<name>LAJE DO MURIAÉ</name>
+		<desc>ITAPERUNA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.368704974385" lon="-41.775064285476">
+		<name>MACAÉ</name>
+		<desc>MACAÉ - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.9902295051434" lon="-42.2570738797263">
+		<name>MACUCO</name>
+		<desc>CANTAGALO-CORDEIRO - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.6543487574334" lon="-43.0402461327151">
+		<name>MAGÉ</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.9617119412403" lon="-44.0411265453576">
+		<name>MANGARATIBA</name>
+		<desc>ITAGUAÍ - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.916955337401" lon="-42.819824114827">
+		<name>MARICÁ</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.5174226018979" lon="-43.7214868876952">
+		<name>MENDES</name>
+		<desc>VASSOURAS - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.768087922635" lon="-43.4292237631069">
+		<name>MESQUITA</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.4554266084252" lon="-43.4746761214594">
+		<name>MIGUEL PEREIRA</name>
+		<desc>VASSOURAS - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-21.4111632991603" lon="-42.1984114071903">
+		<name>MIRACEMA</name>
+		<desc>SANTO ANTÔNIO DE PÁDUA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.0437569889655" lon="-41.9764403133446">
+		<name>NATIVIDADE</name>
+		<desc>ITAPERUNA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.8075142239115" lon="-43.4166099808637">
+		<name>NILÓPOLIS</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.8964523851273" lon="-43.0758231672735">
+		<name>NITERÓI</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.2864614591961" lon="-42.5327712629633">
+		<name>NOVA FRIBURGO</name>
+		<desc>NOVA FRIBURGO - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.7598348262648" lon="-43.4503453299191">
+		<name>NOVA IGUAÇU</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.6097271620663" lon="-43.7093845630292">
+		<name>PARACAMBI</name>
+		<desc>VASSOURAS - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.1619815421833" lon="-43.2895444648457">
+		<name>PARAÍBA DO SUL</name>
+		<desc>TRÊS RIOS - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-23.2194136073409" lon="-44.7108585020174">
+		<name>PARATY</name>
+		<desc>BAÍA DA ILHA GRANDE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.4274146332335" lon="-43.4248709167338">
+		<name>PATY DO ALFERES</name>
+		<desc>VASSOURAS - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.5105986119618" lon="-43.177336576675">
+		<name>PETRÓPOLIS</name>
+		<desc>SERRANA - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.5156739857918" lon="-44.0003545569539">
+		<name>PINHEIRAL</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.6287569098054" lon="-43.8993511857657">
+		<name>PIRAÍ</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-20.9626076269766" lon="-42.0401563585052">
+		<name>PORCIÚNCULA</name>
+		<desc>ITAPERUNA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.432948423821" lon="-44.2969007349911">
+		<name>PORTO REAL</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.409918661677" lon="-44.2627113015842">
+		<name>QUATIS</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.7174304900919" lon="-43.5556695470827">
+		<name>QUEIMADOS</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.1066401655146" lon="-41.4725094000999">
+		<name>QUISSAMÃ</name>
+		<desc>MACAÉ - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.4711835861228" lon="-44.4436134229207">
+		<name>RESENDE</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.7112715025702" lon="-42.6259978411627">
+		<name>RIO BONITO</name>
+		<desc>MACACU-CACERIBU - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.7317268340485" lon="-44.1394056377073">
+		<name>RIO CLARO</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.171862243836" lon="-43.5764329481335">
+		<name>RIO DAS FLORES</name>
+		<desc>BARRA DO PIRAÍ - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.523941185805" lon="-41.9369671271608">
+		<name>RIO DAS OSTRAS</name>
+		<desc>BACIA DE SÃO JOÃO - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.8766521181865" lon="-43.2278751249952">
+		<name>RIO DE JANEIRO</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-21.9660944706772" lon="-42.0144449928315">
+		<name>SANTA MARIA MADALENA</name>
+		<desc>SANTA MARIA MADALENA - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.5359771209445" lon="-42.1779115574882">
+		<name>SANTO ANTÔNIO DE PÁDUA</name>
+		<desc>SANTO ANTÔNIO DE PÁDUA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.4801381322882" lon="-41.1177197285798">
+		<name>SÃO FRANCISCO DE ITABAPOANA</name>
+		<desc>CAMPOS DOS GOYTACAZES - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.6436265466279" lon="-41.7555923123358">
+		<name>SÃO FIDÉLIS</name>
+		<desc>CAMPOS DOS GOYTACAZES - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.8295473130261" lon="-43.0323350619648">
+		<name>SÃO GONÇALO</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-21.6404577523792" lon="-41.050348145484">
+		<name>SÃO JOÃO DA BARRA</name>
+		<desc>CAMPOS DOS GOYTACAZES - NORTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.802330808634" lon="-43.3718846030395">
+		<name>SÃO JOÃO DE MERITI</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-21.3602211097574" lon="-41.9412319414458">
+		<name>SÃO JOSÉ DE UBÁ</name>
+		<desc>SANTO ANTÔNIO DE PÁDUA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.1497395104903" lon="-42.9233683013341">
+		<name>SÃO JOSÉ DO VALE DO RIO PRETO</name>
+		<desc>SERRANA - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.8372031947556" lon="-42.1035286701542">
+		<name>SÃO PEDRO DA ALDEIA</name>
+		<desc>LAGOS - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-21.9544634108549" lon="-42.1302196784864">
+		<name>SÃO SEBASTIÃO DO ALTO</name>
+		<desc>SANTA MARIA MADALENA - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-21.9939558651925" lon="-42.9141753604676">
+		<name>SAPUCAIA</name>
+		<desc>TRÊS RIOS - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.9311274159959" lon="-42.4966940500338">
+		<name>SAQUAREMA</name>
+		<desc>LAGOS - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.7430110680241" lon="-43.7019252211618">
+		<name>SEROPÉDICA</name>
+		<desc>ITAGUAÍ - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.6543301984185" lon="-42.3898259273538">
+		<name>SILVA JARDIM</name>
+		<desc>BACIA DE SÃO JOÃO - BAIXADAS</desc>
+	</wpt>
+	<wpt lat="-22.0506694108347" lon="-42.6786255811119">
+		<name>SUMIDOURO</name>
+		<desc>NOVA FRIBURGO - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.7339374343164" lon="-42.7211719484129">
+		<name>TANGUÁ</name>
+		<desc>RIO DE JANEIRO - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.4090049455632" lon="-42.9629567139024">
+		<name>TERESÓPOLIS</name>
+		<desc>SERRANA - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.0613797048486" lon="-42.0548152486202">
+		<name>TRAJANO DE MORAES</name>
+		<desc>SANTA MARIA MADALENA - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.1174480009517" lon="-43.2116094443354">
+		<name>TRÊS RIOS</name>
+		<desc>TRÊS RIOS - CENTRO FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.2447194311794" lon="-43.7048436783271">
+		<name>VALENÇA</name>
+		<desc>BARRA DO PIRAÍ - SUL FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-20.9292976638709" lon="-41.8632953882988">
+		<name>VARRE-SAI</name>
+		<desc>ITAPERUNA - NOROESTE FLUMINENSE</desc>
+	</wpt>
+	<wpt lat="-22.4090075730264" lon="-43.6638740245132">
+		<name>VASSOURAS</name>
+		<desc>VASSOURAS - METROPOLITANA DO RIO DE JANEIRO</desc>
+	</wpt>
+	<wpt lat="-22.5099676007978" lon="-44.0935218846871">
+		<name>VOLTA REDONDA</name>
+		<desc>VALE DO PARAÍBA FLUMINENSE - SUL FLUMINENSE</desc>
+	</wpt>
+</gpx>
