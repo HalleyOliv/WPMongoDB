@@ -1,4 +1,4 @@
-# This script ... perimeter of Recoleta
+# This script genaretes a gpx file for the perimeter of Recoleta
 import json
 import html
 import numpy as np
@@ -42,7 +42,7 @@ def trkpt(lat, lon):
     gpx.write("\t\t\t<trkpt lat=\"" + lat + "\" lon=\"" + lon + "\"></trkpt>\n")
     return
 
-# Perimeter of Recoleta
+# Perimeter of Recoleta coordinates
 barrios_porteños = db.barrios_porteños
 barrio =  barrios_porteños.find_one( { 'properties.BARRIO' : 'RECOLETA' } )
 geometry = barrio['geometry']['coordinates']
