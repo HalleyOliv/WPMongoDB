@@ -16,13 +16,13 @@ if len(sys.argv) < 2:
     print("Syntax: " + sys.argv[0] + " input_file")
     sys.exit()
 
-input = str(sys.argv[1])
-filename, extension = input.split('.')
-output = filename + ".gpx"
+infile = str(sys.argv[1])
+filename, extension = infile.split('.')
+outfile = filename + ".gpx"
 
 # Read the TSV file
-with open(input, 'r') as tsvfile:
-    fileread = csv.reader(tsvfile, delimiter='\t', quotechar='§')
+with open(infile, 'r') as tsvfile:
+    fileread = csv.reader(tsvfile, delimiter='\t', quotechar='ยง')
     for tsv in fileread:
         print(tsv)
         name = tsv[0]
@@ -38,7 +38,7 @@ def wpt(name, desc, lat, lon):
     return
 
 # GPX file
-gpx = open(output, "w")
+gpx = open(outfile, "w")
 gpx.write("<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n")
 gpx.write("<gpx version=\"1.1\" " + \
           "creator=\"Reficio - http://reficio.cc\" " + \
@@ -69,5 +69,5 @@ s = "[osm_map_v3 map_center=\"" + \
     "map_border=\"thin solid grey\" " + \
     "file_list=\"../../../../wp-content/uploads/" + \
     '{:04d}'.format(d.year) + "/" + '{:02d}'.format(d.month) + \
-    "/" + output + "\" file_color_list=\"blue\"]"
+    "/" + outfile + "\" file_color_list=\"blue\"]"
 print(s)
