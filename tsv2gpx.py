@@ -3,6 +3,10 @@
 # name, description, latitude, and longitude
 # fields, in a GPX (GPS eXchange Format) file.
 #
+# If there are multiple lines in the input file (header, etc.),
+# only the last one will be used to generate the GPX file, but
+# there must be at least four fields on all lines.
+#
 # -*- coding: utf-8 -*-
 
 import sys
@@ -24,7 +28,10 @@ outfile = filename + ".gpx"
 with open(infile, 'r') as tsvfile:
     fileread = csv.reader(tsvfile, delimiter='\t', quotechar='§')
     for tsv in fileread:
-        print(tsv)
+        if len(tsv) < 4:
+            print("There should be four fields in each line:")
+            print("name, description, latitude and longitude.")
+            sys.exit()
         name = tsv[0]
         desc = tsv[1]
         lat  = tsv[2]
