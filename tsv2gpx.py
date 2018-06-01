@@ -22,7 +22,7 @@ outfile = filename + ".gpx"
 
 # Read the TSV file
 with open(infile, 'r') as tsvfile:
-    fileread = csv.reader(tsvfile, delimiter='\t', quotechar='ยง')
+    fileread = csv.reader(tsvfile, delimiter='\t', quotechar='§')
     for tsv in fileread:
         print(tsv)
         name = tsv[0]
