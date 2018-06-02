@@ -1,4 +1,4 @@
-# This example combines two collections to display the
+# This script combines two collections to display the
 # hotels in Buenos Aires in the neighborhood of Recoleta
 # and the perimeter of Recoleta.
 import json
