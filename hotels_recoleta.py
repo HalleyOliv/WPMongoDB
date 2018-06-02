@@ -1,5 +1,6 @@
-# This script combines two collections to display the
+# This example combines two collections to display the
 # hotels in Buenos Aires in the neighborhood of Recoleta
+# and the perimeter of Recoleta.
 import json
 import html
 import numpy as np
@@ -43,14 +44,17 @@ def wpt(name, desc, lat, lon):
     gpx.write("\t</wpt>\n")
     return
 
+def trkpt(lat, lon):
+    gpx.write("\t\t\t<trkpt lat=\"" + lat + "\" lon=\"" + lon + "\"></trkpt>\n")
+    return
+
 # Geometry of the neighborhood of Recoleta
 # from the barrios_porteños collection
 barrios_porteños = db.barrios_porteños
 barrio =  barrios_porteños.find_one( { 'properties.BARRIO' : 'RECOLETA' } )
 geometry = barrio['geometry']['coordinates']
 
-# In geonamesar collection, find the
-# hotels in Recoleta, Buenos Aires
+# Hotels in Recoleta, Buenos Aires
 geonamesar = db.geonamesar
 hotels = []
 for geoname in geonamesar.find( \
@@ -72,6 +76,16 @@ for geoname in geonamesar.find( \
     hotels.append(np.array(name))
     wpt(name, geonameid, str(lat), str(lon))
 
+# Perimeter of Recoleta
+gpx.write("\t<trk>\n")
+gpx.write("\t\t<name>GPS data</name>\n")
+gpx.write("\t\t<trkseg>\n")
+
+for geo in geometry[0]:
+    trkpt(str(geo[1]),str(geo[0]))
+
+gpx.write("\t\t</trkseg>\n")
+gpx.write("\t</trk>\n")
 gpx.write("</gpx>")
 gpx.close()
 
