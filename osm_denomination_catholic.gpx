@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Reficio - http://reficio.cc" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>OSM denomination=catholic</name>
+		<desc>Open Street Map</desc>
+		<author>
+			<name>Halley Pacheco de Oliveira</name>
+			<email id="reficio" domain="reficio.cc" />
+			<link href="http://reficio.cc/">
+				<text>Reficio</text>
+			</link>
+		</author>
+	</metadata>
+	<wpt lat="-22.9041351" lon="-43.1803813">
+		<name>Igreja de Nossa Senhora do Rosário e São Benedito dos Homens Pretos</name>
+		<desc>338512244</desc>
+	</wpt>
+	<wpt lat="-22.9126505" lon="-43.1921416">
+		<name>Santuário Nossa Senhora de Fátima</name>
+		<desc>448811942</desc>
+	</wpt>
+	<wpt lat="-22.9058593" lon="-43.1769091">
+		<name>Igreja de Nossa Senhora do Parto</name>
+		<desc>557170156</desc>
+	</wpt>
+	<wpt lat="-22.914651" lon="-43.1777432">
+		<name>Igreja de Nossa Senhora do Carmo da Lapa do Desterro</name>
+		<desc>566811637</desc>
+	</wpt>
+	<wpt lat="-22.905319" lon="-43.182868">
+		<name>Igreja de Nossa Senhora do Terço e Senhor dos Passos</name>
+		<desc>1012821190</desc>
+	</wpt>
+	<wpt lat="-22.9030222" lon="-43.1787691">
+		<name>Igreja de Nossa Senhora da Conceição e Boa Morte</name>
+		<desc>1443188283</desc>
+	</wpt>
+	<wpt lat="-22.9162055" lon="-43.195651">
+		<name>Igreja Nossa Senhora Sallete</name>
+		<desc>2013531872</desc>
+	</wpt>
+	<wpt lat="-22.8937347" lon="-43.1915095">
+		<name>Igreja de Nossa Senhora da Saúde</name>
+		<desc>2982748607</desc>
+	</wpt>
+	<wpt lat="-22.8978431" lon="-43.1836126">
+		<name>Igreja de São Francisco da Prainha</name>
+		<desc>3253373549</desc>
+	</wpt>
+	<wpt lat="-22.9134891" lon="-43.1884606">
+		<name>Igreja Irmandade dos Mártires São Crispim e São Crispiniano</name>
+		<desc>4004552925</desc>
+	</wpt>
+</gpx>
