@@ -42,22 +42,13 @@ minlat = 90
 maxlat = -90
 minlon = 180
 maxlon = -180
-count = 0
 
 def minmaxlatlon(lat, lon):
     global maxlat, minlat, maxlon, minlon
-    if lat > maxlat:
-        maxlat = lat
-
-    if lat < minlat:
-        minlat = lat
-
-    if lon > maxlon:
-        maxlon = lon
-
-    if lon < minlon:
-        minlon = lon
-
+    maxlat = max(lat,maxlat)
+    minlat = min(lat,minlat)
+    maxlon = max(lon,maxlon)
+    minlon = min(lon,minlon)
 
 # Connect to reficio database on MongoDB server
 conn = MongoClient('localhost', 27017)
@@ -76,7 +67,6 @@ for property in db.osmpoints.find({"properties.other_tags" : regx }):
 
 gpx.write("</gpx>")
 gpx.close()
-
 
 #  WordPress OpenStreetMap Plugin
 medlat = (minlat + maxlat)/2
