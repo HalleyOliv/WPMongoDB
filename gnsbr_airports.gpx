@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Reficio - http://reficio.cc" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>Airports in Brazil</name>
+		<desc>NGA GEOnet Names Server (GNS)</desc>
+		<author>
+			<name>Halley Pacheco de Oliveira</name>
+			<email id="reficio" domain="reficio.cc" />
+			<link href="http://reficio.cc/">
+				<text>Reficio</text>
+			</link>
+		</author>
+	</metadata>
+	<wpt lat="-29.991667" lon="-51.179167">
+		<name>Aeroporto Internacional Salgado Filho</name>
+		<desc>Aeroporto Internacional</desc>
+	</wpt>
+	<wpt lat="-22.926973" lon="-43.714271">
+		<name>Aeroporto Bartolomeu de Gusmão</name>
+		<desc>Aeroporto</desc>
+	</wpt>
+	<wpt lat="-22.985973" lon="-43.370899">
+		<name>Aeroporto de Jacarepagua</name>
+		<desc>Aeroporto</desc>
+	</wpt>
+	<wpt lat="-22.813162" lon="-43.251291">
+		<name>Aeroporto Internacional do Rio de Janeiro (Galeão - Antônio Carlos Jobim)</name>
+		<desc>Aeroporto Internacional</desc>
+	</wpt>
+	<wpt lat="-22.90621" lon="-43.165664">
+		<name>Aeroporto Santos Dumont</name>
+		<desc>Aeroporto</desc>
+	</wpt>
+	<wpt lat="-23.147623" lon="-49.941355">
+		<name>Aeroporto Deputado José Afonso de Almeida</name>
+		<desc>Aeroporto</desc>
+	</wpt>
+	<wpt lat="-6.843953" lon="-43.079596">
+		<name>Cangapara</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-4.475646" lon="-43.888406">
+		<name>Magalhaes de Almeida</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-8.12931" lon="-34.921719">
+		<name>Guararapes</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-8.407208" lon="-37.084428">
+		<name>Arcoverde</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-15.652094" lon="-56.117336">
+		<name>Marechal Rondon</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-3.036758" lon="-60.045951">
+		<name>Eduardo Gomes International Airport</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-15.939257" lon="-54.97131">
+		<name>Jaciara</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-1.86805" lon="-55.515018">
+		<name>Óbidos</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-8.348034" lon="-49.30192">
+		<name>Conceição do Araguaia</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-1.713515" lon="-55.836423">
+		<name>Oriximiná</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-3.146185" lon="-59.98637">
+		<name>Ponta Pelada</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-5.811327" lon="-61.278396">
+		<name>Manicoré</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-10.987424" lon="-37.067188">
+		<name>Santa Maria</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-4.406281" lon="-59.602974">
+		<name>Borba</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-10.26504" lon="-36.567948">
+		<name>Penedo</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-12.254491" lon="-38.952243">
+		<name>João Durval Carneiro</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-12.911385" lon="-38.342244">
+		<name>Dois de Julho</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-9.461484" lon="-40.822091">
+		<name>Sobradinho</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-11.342319" lon="-41.847615">
+		<name>Irecê</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-10.466375" lon="-40.177282">
+		<name>Senhor do Bonfim</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-10.273307" lon="-36.832848">
+		<name>Propriá</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-8.855853" lon="-36.526205">
+		<name>Garanhuns</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-9.510026" lon="-35.799452">
+		<name>Campo dos Palmares</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-15.873994" lon="-38.875241">
+		<name>Belmonte</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-3.776298" lon="-38.53306">
+		<name>Pinto Martins</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-11.162909" lon="-40.552415">
+		<name>Jacobina</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-7.148057" lon="-34.951515">
+		<name>Presidente Castro Pinto</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-14.862236" lon="-40.861725">
+		<name>Vitória da Conquista</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-15.477762" lon="-44.388633">
+		<name>Januária</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-15.028508" lon="-44.043729">
+		<name>Fazenda Canada</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-5.909344" lon="-35.246532">
+		<name>Augusto Severo</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-14.814507" lon="-39.030009">
+		<name>Ilhéus</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-5.06197" lon="-42.820832">
+		<name>Teresina</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-15.869852" lon="-47.916822">
+		<name>Brasilia International Airport</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-9.865442" lon="-56.105916">
+		<name>Alta Floresta</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-10.717784" lon="-48.39883">
+		<name>Porto Nacional</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-12.421277" lon="-64.251766">
+		<name>Costa Marques</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-8.031815" lon="-49.980024">
+		<name>Redenção</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-2.677331" lon="-56.775557">
+		<name>Parintins</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-2.791854" lon="-57.057691">
+		<name>Barreirinha</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-6.641343" lon="-51.952159">
+		<name>São Félix do Xingu</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-14.256491" lon="-41.820068">
+		<name>Socrates Mariani Bittencour</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-1.99582" lon="-54.073935">
+		<name>Monte Alegre</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-9.166593" lon="-40.949959">
+		<name>Casa Nova</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-9.366815" lon="-40.561758">
+		<name>Petrolina</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-9.393134" lon="-40.498041">
+		<name>Petrolina Southeast</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-12.486225" lon="-41.351457">
+		<name>Lençóis</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-9.732442" lon="-36.775471">
+		<name>Arapiraca</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-11.739449" lon="-49.133739">
+		<name>Gurupi</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-3.372353" lon="-57.724659">
+		<name>Maués</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-15.899475" lon="-52.241281">
+		<name>Aragarças</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="0.050843" lon="-51.071667">
+		<name>Macapá</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-3.253092" lon="-52.253889">
+		<name>Altamira</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-11.432852" lon="-61.477636">
+		<name>Cacoal</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-3.12638" lon="-58.48193">
+		<name>Itacoatiara</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-0.981316" lon="-62.918968">
+		<name>Barcelos</name>
+		<desc></desc>
+	</wpt>
+	<wpt lat="-2.587018" lon="-44.233396">
+		<name>Marechal Cunha Machado</name>
+		<desc></desc>
+	</wpt>
+</gpx>
