@@ -45,17 +45,10 @@ maxlon = -180
 
 def minmaxlatlon(lat, lon):
     global maxlat, minlat, maxlon, minlon
-    if lat > maxlat:
-        maxlat = lat
-
-    if lat < minlat:
-        minlat = lat
-
-    if lon > maxlon:
-        maxlon = lon
-
-    if lon < minlon:
-        minlon = lon
+    maxlat = max(lat,maxlat)
+    minlat = min(lat,minlat)
+    maxlon = max(lon,maxlon)
+    minlon = min(lon,minlon)
 
 # Connect to reficio database on MongoDB server
 conn = MongoClient('192.168.0.7', 27017)
